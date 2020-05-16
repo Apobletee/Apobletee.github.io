@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Alejandro Poblete E."
-excerpt: "About me"
+title: "About."
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,5 +12,5 @@ Hi there! My name is Alejandro Poblete and I'm a fifth year student of Economics
 
 I have been a Teacher Assistant in the subjects of Dynamic Optimization, Principles of Macroeconomics and Finances. In this blog yo will be able to see and download the exercises, so feel free to ask any question about it. This semester (1-2020) I will be teaching Dynamic Optimization, Microecomics II and Industrial Organization.
 
-This is the second page that I do, for pasts TA's you may refer to: https://alejandropblte.github.io/
+This is the second page that I do, for pasts TA's you may refer to: [https://alejandropblte.github.io/](https://alejandropblte.github.io/)
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Alejandro Poblete Espinoza"
 title_separator          : "-"
 name                     : &name "Alejandro Poblete"
 description              : &description "B.A. in Economics"
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: TAS
     values:
       layout: single
       author_profile: true

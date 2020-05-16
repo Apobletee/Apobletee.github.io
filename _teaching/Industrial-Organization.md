@@ -2,7 +2,7 @@
 title: "Industrial Organization"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Industrial_Organization
+permalink: /teaching/Industrial-Organization
 venue: "Diego Portales University, Department of Economics"
 date: 2020-03-01
 location: "City, Country"

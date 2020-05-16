@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 
-
-CV
-=======
 * Here is my [CV](http://apobletee.github.io/files/cv1.pdf)
 
 Contact

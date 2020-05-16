@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me""
+title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Alejandro Poblete Espinoza"
+name                     : &name "Your Name"
 description              : &description "B.A. in Economics"
 url                      : "https://Apobletee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alejandro Poblete E"
   avatar           : "profile.png"
-  bio              : "Student of Economics at UDP"
-  location         : "Location"
-  employer         :
+  bio              : 
+  location         : "Santiago"
+  employer         : "https://economiayempresa.udp.cl/"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "alejandro.poblete@mail.udp.cl"
   researchgate     : 
   uri              :
   bitbucket        :

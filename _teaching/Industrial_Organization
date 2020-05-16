@@ -1,20 +1,27 @@
 ---
-title: "Teaching experience 1"
+title: "Industrial Organization"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Industrial_Organization
-venue: "University 1, Department"
+venue: "Diego Portales University, Department of Economics"
 date: 2020
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Description
+======
+Este curso entrega los fundamentos teóricos que explican el desempeño y funcionamiento de los
+mercados bajo diferentes estructuras de competencia, y qué elementos permiten definir y
+caracterizar dichas estructuras. Al finalizar este curso, el alumno debería poder entender diferentes conceptos relacionados con
+mercados competitivos, no competitivos y regulados, y poder tener la capacidad de analizar los
+motivos y consecuencias de cada uno de este tipo de mercados en la realidad.
 
-Heading 1
+TAs
 ======
 
-Heading 2
-======
+### Ayudantía 1
+### Ayudantía 2
+### Ayudantía 3
+### Ayudantía 4
+### Ayudantía 5
 
-Heading 3
-======

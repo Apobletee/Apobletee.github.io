@@ -20,6 +20,6 @@ Email: alejandro.poblete [at] mail.udp [dot] cl
 
 Education
 ======
+* B.A. in Economics, Diego Portales University, 2020 [expected]
 * English Program, Queensland University of Technology, 2014
-* B.A. in Economics, Diego Portales University, 2020 (expected)
 

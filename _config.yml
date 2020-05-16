@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Alejandro Poblete"
 description              : &description "B.A. in Economics"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alejandro Poblete E"
+  name             : "About Me"
   avatar           : "foto11.jpg"
   bio              : 
   location         : "Santiago"

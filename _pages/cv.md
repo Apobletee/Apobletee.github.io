@@ -11,11 +11,11 @@ redirect_from:
 
 CV
 =======
-Here is my [CV](http://academicpages.github.io/files/cv1.pdf)
+* Here is my [CV](http://apobletee.github.io/files/cv1.pdf)
 
 Contact
 ======
-Email: alejandro.poblete [at] mail.udp [dot] cl
+* Email: alejandro.poblete [at] mail.udp [dot] cl
 
 
 Education

@@ -8,8 +8,7 @@ date: 2020-03-01
 location: "City, Country"
 ---
 
-Description
-======
+
 Este curso entrega los fundamentos teóricos que explican el desempeño y funcionamiento de los
 mercados bajo diferentes estructuras de competencia, y qué elementos permiten definir y
 caracterizar dichas estructuras. Al finalizar este curso, el alumno debería poder entender diferentes conceptos relacionados con

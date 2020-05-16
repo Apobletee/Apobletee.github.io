@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alejandro Poblete Espinoza"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Alejandro Poblete"
 description              : &description "B.A. in Economics"
@@ -84,7 +84,7 @@ author:
   avatar           : "foto11.jpg"
   bio              : 
   location         : "Santiago"
-  employer         : "Facultad de Economía y Empresa, UDP"
+  employer         : "FEE, UDP"
   pubmed           : 
   googlescholar    : 
   email            : "alejandro.poblete@mail.udp.cl"

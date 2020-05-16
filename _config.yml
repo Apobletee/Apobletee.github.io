@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alejandro Poblete"
 description              : &description "B.A. in Economics"
 url                      : "https://Apobletee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://cl.linkedin.com/in/alejandro-poblete-espinoza-b4451a136"
+  linkedin         : "/alejandro-poblete-espinoza-b4451a136"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/janopoblett"
+  twitter          : "@janopoblett"
   vine             :
   weibo            :
   xing             :

@@ -1,5 +1,5 @@
 ---
-title: "Principle of Macroeconomics (2018)"
+title: "Principle of Macroeconomics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Principle-of-macroeconomics.md

@@ -13,6 +13,28 @@ Welcome to the first course in finances, here you will learn the basics about fi
 
 TAs
 ======
-fdfsdfsfs
-scsd
-sc
+
+
+### [Ayudantía 13](http://apobletee.github.io/files/F1/a13.pdf)
+
+### [Ayudantía 12](http://apobletee.github.io/files/F1/a12.pdf)
+
+### [Ayudantía 11](http://apobletee.github.io/files/F1/a11.pdf)
+
+### [Ayudantía 10](http://apobletee.github.io/files/F1/a10.pdf)
+
+### [Ayudantía 9](http://apobletee.github.io/files/F1/a9.pdf)
+
+### [Ayudantía 8](http://apobletee.github.io/files/F1/a8.pdf)
+
+### [Ayudantía 7](http://apobletee.github.io/files/F1/a7.pdf)
+
+### [Ayudantía 6](http://apobletee.github.io/files/F1/a6.pdf)
+
+### [Ayudantía 4](http://apobletee.github.io/files/F1/Finanzas1_A4.pdf)
+
+### [Ayudantía 3](http://apobletee.github.io/files/F1/Ayudantía3.pdf)
+
+### [Ayudantía 2](http://apobletee.github.io/files/F1/Ayudantía2Finanzas.pdf)
+
+

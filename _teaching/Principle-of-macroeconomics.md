@@ -14,6 +14,19 @@ This is the first course in Macroeconomics. Here you will learn the basics and a
 TAs
 ======
 
+
+|[Ayudantía 13](http://apobletee.github.io/files/F1/a13.pdf)| [Ayudantía 12](http://apobletee.github.io/files/F1/a12.pdf)   | [Ayudantía 11](http://apobletee.github.io/files/F1/a11.pdf)  |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
+
+
+
+
 ### [Ayudantía 1](http://apobletee.github.io/files/PM/Ayudantía-1-PM-2S.pdf)
 
 ### [Ayudantía 2](http://apobletee.github.io/files/PM/Ayudantía-2-PM.pdf.pdf)

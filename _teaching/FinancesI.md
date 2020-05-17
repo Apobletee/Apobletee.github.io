@@ -13,3 +13,6 @@ Welcome to the first course in finances, here you will learn the basics about fi
 
 TAs
 ======
+fdfsdfsfs
+scsd
+sc

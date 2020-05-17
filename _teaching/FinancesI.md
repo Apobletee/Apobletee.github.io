@@ -2,7 +2,7 @@
 title: "Finances I (2019)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/FinancesI.md
+permalink: /teaching/FinancesI
 venue: "Diego Portales University, Department of Economics"
 date: 2019-03-10
 location: "City, Country"

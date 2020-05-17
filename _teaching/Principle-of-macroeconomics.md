@@ -11,7 +11,7 @@ location: "City, Country"
 
 This is the first course in Macroeconomics. Here you will learn basic definitions and concepts of Macroeconomics. These basics includes GDP, Inflation, BOP, IS-LM (as well as fiscal and monetary policies) and Aggregated Supply and Demand. Good luck and if you have any question just ask me.
 
-TAs (Answers upon request)
+TAs (Solutions upon request)
 ======
 
 

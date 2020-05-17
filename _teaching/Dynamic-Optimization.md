@@ -10,9 +10,9 @@ location: "City, Country"
 
 
 
-.
 
-Click here for exercises.
+Ayudantías.
+
 
 # Description
 Welcome to this fun and interesting course. 

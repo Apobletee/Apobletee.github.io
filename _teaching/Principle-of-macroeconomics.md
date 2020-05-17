@@ -1,10 +1,10 @@
 ---
-title: "Principle of Macroeconomics"
+title: "Principle of Macroeconomics (2018)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/Principle-of-macroeconomics.md
 venue: "Diego Portales University, Department of Economics"
-date: 2019-03-10
+date: 2018-08-10
 location: "City, Country"
 ---
 

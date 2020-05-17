@@ -15,7 +15,6 @@ TAs
 
 ### Ayudantía 1
 
-
 ### Ayudantía 2
 
 ### Ayudantía 3

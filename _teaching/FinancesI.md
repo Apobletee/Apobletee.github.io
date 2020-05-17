@@ -1,7 +1,7 @@
 ---
 title: "Finances I (2019)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/FinancesI.md
 venue: "Diego Portales University, Department of Economics"
 date: 2019-03-10

@@ -19,13 +19,18 @@ Control and others. Any questions you may have feel free to ask!
 TAs
 ======
 
-### Ayudantía 1
 
 
-### Ayudantía 2
+### [Ayudantía 5](http://apobletee.github.io/files/Ayuds/A52020.pdf) 
 
-### Ayudantía 3
+### [Ayudantía 4](http://apobletee.github.io/files/Ayuds/A42020.pdf) 
 
-### Ayudantía 4
+### [Ayudantía 3](http://apobletee.github.io/files/Ayuds/A32020.pdf) 
 
-### Ayudantía 5
+### [Ayudantía 2](http://apobletee.github.io/files/Ayuds/A22020.pdf) 
+
+### [Ayudantía 1](http://apobletee.github.io/files/Ayuds/A12020.pdf) 
+
+### [Exercise](http://apobletee.github.io/files/Ayuds/Ejercicio.pdf) 
+
+

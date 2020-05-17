@@ -13,13 +13,14 @@ This is the third course on Microeconomics, in this course you will see Exchange
 TAs
 ======
 
-### Ayudantía 1
+### [Ayudantía 2](http://apobletee.github.io/files/Ayuds/Ayud2M2.pdf) 
 
+### [Ayudantía 3](http://apobletee.github.io/files/Ayuds/Ayud3M2.pdf) 
 
-### Ayudantía 2
+### [Ayudantía 4](http://apobletee.github.io/files/Ayuds/Ayud4M2.pdf) 
 
-### Ayudantía 3
+### [Ayudantía 5](http://apobletee.github.io/files/Ayuds/Ayud5M2.pdf) 
 
-### Ayudantía 4
+### [Ayudantía R](http://apobletee.github.io/files/Ayuds/AyudRM2.pdf) 
 
-### Ayudantía 5
+- You can see an example of this in my [blog](https://apobletee.github.io/posts/2020/05/blog-post-2/)

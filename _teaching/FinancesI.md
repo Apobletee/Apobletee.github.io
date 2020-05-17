@@ -9,6 +9,10 @@ location: "City, Country"
 ---
 
 
+
+
+Click here for exercises.
+
 Welcome to the first course in finances, here you will learn the basics about financial mathematics and many interesting things. We’ll cover Present and future values, annuities and amortizations, bonds and stock pricing and many more. If your have any question feel free to ask. In this page I will upload the TA classes.
 
 TAs

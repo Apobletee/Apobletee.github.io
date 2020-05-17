@@ -14,12 +14,6 @@ This is the first course in Macroeconomics. Here you will learn the basics and a
 TAs
 ======
 
-### Ayudantía 1
+### [Ayudantía 1](http://apobletee.github.io/files/PM/Ayudantía-1-PM-2S.pdf)
 
-### Ayudantía 2
-
-### Ayudantía 3
-
-### Ayudantía 4
-
-### Ayudantía 5
+### [Ayudantía 1]()

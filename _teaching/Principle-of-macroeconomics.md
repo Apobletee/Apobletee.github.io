@@ -14,9 +14,8 @@ This is the first course in Macroeconomics. Here you will learn the basics and a
 TAs
 ======
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [[Ayudantía 1](http://apobletee.github.io/files/PM/Ayudantía-1-PM-2S.pdf)    | [Ayudantía 2](http://apobletee.github.io/files/PM/Ayudantía-2-PM.pdf.pdf)  | [Ayudantía 3](http://apobletee.github.io/files/PM/Ayudantía-3-PM.pdf)                    | 
+
+| [Ayudantía 1](http://apobletee.github.io/files/PM/Ayudantía-1-PM-2S.pdf)    | [Ayudantía 2](http://apobletee.github.io/files/PM/Ayudantía-2-PM.pdf.pdf)  | [Ayudantía 3](http://apobletee.github.io/files/PM/Ayudantía-3-PM.pdf)                    | 
 |[Ayudantía 4](http://apobletee.github.io/files/PM/Ayudant_a_4_P_Macro_2018.pdf)   | [Ayudantía 5](http://apobletee.github.io/files/PM/Ayudant_a_5_P_Macro_2018.pdf) |[Ayudantía 6](http://apobletee.github.io/files/PM/Ayudant_a_6_Ppios_de_Macro.pdf) |
 | [Ayudantía 7](http://apobletee.github.io/files/PM/Ayudant_a_7-8_Ppios_de_Macro.pdf)  | --  |  --         |
 

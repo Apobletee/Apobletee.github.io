@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Alejandro Poblete and I'm a fifth year student of Economics at Diego Portales University (UDP). My interest are in the fields of Financial Economics, Financial Markets and Macroeconomics. Also I'm very fond of coding in Python and R. I always try to learn more and try to apply it to Einances and economics, which is quite interesting.
+Hi there! My name is Alejandro Poblete and I'm a fifth year student of Economics at Diego Portales University (UDP). My interest are in the fields of Financial Economics, Financial Markets and Macroeconomics. Also I'm very fond of coding in Python and R. I always try to learn more and try to apply it to finances and economics, which is quite interesting.
 
 I have been a Teacher Assistant in the subjects of Dynamic Optimization, Principles of Macroeconomics and Finances. In this site you will be able download the exercises of the classes. Feel free to ask any question about it. This semester (1-2020) I will be teaching Dynamic Optimization, Microecomics II and Industrial Organization.
 

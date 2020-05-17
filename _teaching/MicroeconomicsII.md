@@ -8,7 +8,7 @@ date: 2020-03-10
 location: "City, Country"
 ---
 
-This is the third course on Microeconomics, in this course you will see Exchange Economy, Public Goods and others.
+This is the third course Microeconomics, in this course you will see Exchange Economy, Public Goods and others. Click here to see the exercises.
 
 TAs
 ======

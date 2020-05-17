@@ -1,7 +1,7 @@
 ---
 title: "Microeconomics II"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/MicroeconomicsII
 venue: "Diego Portales University, Department of Economics"
 date: 2020-03-10

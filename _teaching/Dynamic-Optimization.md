@@ -12,6 +12,7 @@ location: "City, Country"
 
 .
 
+Click here for exercises.
 
 # Description
 Welcome to this fun and interesting course. 

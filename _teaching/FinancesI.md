@@ -1,5 +1,5 @@
 ---
-title: "Finances I"
+title: "Finances I (2019)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/FinancesI.md
@@ -13,14 +13,3 @@ Welcome to the first course in finances, here you will learn the basics about fi
 
 TAs
 ======
-
-### Ayudantía 1
-
-
-### Ayudantía 2
-
-### Ayudantía 3
-
-### Ayudantía 4
-
-### Ayudantía 5

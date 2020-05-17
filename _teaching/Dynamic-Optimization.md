@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Optimization"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/Dynamic-Optimization.md
 venue: "Diego Portales University, Department of Economics"
 date: 2020-03-10

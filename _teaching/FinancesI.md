@@ -13,14 +13,6 @@ Welcome to the first course in finances, here you will learn the basics about fi
 
 TAs
 ======
-|### [Ayudantía 13](http://apobletee.github.io/files/F1/a13.pdf)| ### [Ayudantía 12](http://apobletee.github.io/files/F1/a12.pdf)   | ### [Ayudantía 11](http://apobletee.github.io/files/F1/a11.pdf)  |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
 
 ### [Ayudantía 13](http://apobletee.github.io/files/F1/a13.pdf)
 

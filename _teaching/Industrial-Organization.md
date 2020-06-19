@@ -26,6 +26,6 @@ motivos y consecuencias de cada uno de este tipo de mercados en la realidad.
 TAs
 ======
 
-## [Ayudantía 8](http://apobletee.github.io/files/io/IO8.pdf)
+## [Ayudantía 8](http://apobletee.github.io/files/orga/IO8.pdf)
 [Video](https://drive.google.com/drive/folders/1Rc8Q_Z_R3XQ4qmFftwSPIrc2kjbrVuUS?usp=sharing)
 

@@ -27,4 +27,4 @@ TAs
 
 ### [Ayudantía 6](http://apobletee.github.io/files/Ayuds/Ayud6M2.pdf) 
 
-### [Ayudantía 6](http://apobletee.github.io/files/Ayuds/Ayud7M2.pdf) 
+### [Ayudantía 7](http://apobletee.github.io/files/Ayuds/Ayud7M2.pdf) 

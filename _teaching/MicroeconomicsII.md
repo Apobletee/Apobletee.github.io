@@ -24,3 +24,7 @@ TAs
 ### [Ayudantía R](http://apobletee.github.io/files/Ayuds/AyudRM2.pdf) 
 
 - You can see an example of this in my [blog](https://apobletee.github.io/posts/2020/05/blog-post-2/)
+
+### [Ayudantía 6](http://apobletee.github.io/files/Ayuds/Ayud6M2.pdf) 
+
+### [Ayudantía 6](http://apobletee.github.io/files/Ayuds/Ayud7M2.pdf) 

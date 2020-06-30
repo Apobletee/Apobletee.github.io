@@ -13,18 +13,30 @@ This is the third course Microeconomics, in this course you will see Exchange Ec
 TAs
 ======
 
-### [Ayudantía 2](http://apobletee.github.io/files/Ayuds/Ayud2M2.pdf) 
 
-### [Ayudantía 3](http://apobletee.github.io/files/Ayuds/Ayud3M2.pdf) 
+### [Ayudantía 7](http://apobletee.github.io/files/Ayuds/AYUD7M2.pdf) 
 
-### [Ayudantía 4](http://apobletee.github.io/files/Ayuds/Ayud4M2.pdf) 
-
-### [Ayudantía 5](http://apobletee.github.io/files/Ayuds/Ayud5M2.pdf) 
+### [Ayudantía 6](http://apobletee.github.io/files/Ayuds/AYUD6M2.pdf) 
 
 ### [Ayudantía R](http://apobletee.github.io/files/Ayuds/AyudRM2.pdf) 
 
 - You can see an example of this in my [blog](https://apobletee.github.io/posts/2020/05/blog-post-2/)
 
-### [Ayudantía 6](http://apobletee.github.io/files/Ayuds/Ayud6M2.pdf) 
+### [Ayudantía 5](http://apobletee.github.io/files/Ayuds/Ayud5M2.pdf) 
 
-### [Ayudantía 7](http://apobletee.github.io/files/Ayuds/Ayud7M2.pdf) 
+
+### [Ayudantía 4](http://apobletee.github.io/files/Ayuds/Ayud4M2.pdf) 
+
+### [Ayudantía 3](http://apobletee.github.io/files/Ayuds/Ayud3M2.pdf) 
+
+### [Ayudantía 2](http://apobletee.github.io/files/Ayuds/Ayud2M2.pdf) 
+
+
+
+
+
+
+
+
+
+

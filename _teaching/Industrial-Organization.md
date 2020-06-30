@@ -26,6 +26,18 @@ motivos y consecuencias de cada uno de este tipo de mercados en la realidad.
 TAs
 ======
 
+
+## [Ayudantía 10](http://apobletee.github.io/files/orga/IO10.pdf)
+
+## [Ayudantía 9](http://apobletee.github.io/files/orga/IO9.pdf)
+
 ## [Ayudantía 8](http://apobletee.github.io/files/orga/IO8.pdf)
 [Video](https://drive.google.com/drive/folders/1Rc8Q_Z_R3XQ4qmFftwSPIrc2kjbrVuUS?usp=sharing)
 
+## [Ayudantía 7](http://apobletee.github.io/files/orga/IO7.pdf)
+
+## [Ayudantía 4](http://apobletee.github.io/files/orga/IO4.pdf)
+
+## [Ayudantía 3](http://apobletee.github.io/files/orga/IO3.pdf)
+
+## [Ayudantía 2](http://apobletee.github.io/files/orga/IO2.pdf)

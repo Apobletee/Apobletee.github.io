@@ -22,7 +22,7 @@ Along the semester you will see different problems applied to economics, you wil
 
 TAs
 ======
-### [Ayudantía 7](http://apobletee.github.io/files/OD2020/A82020.pdf)
+### [Ayudantía 8](http://apobletee.github.io/files/OD2020/A82020.pdf)
 
 ### [Ayudantía 7](http://apobletee.github.io/files/OD2020/A72020.pdf)
 [Video](https://drive.google.com/drive/folders/1aJd7FFnjYB3BCbdZOPcIcZnZG3IZ3lW1?usp=sharing)

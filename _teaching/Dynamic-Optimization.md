@@ -31,14 +31,6 @@ TAs
 
 ### [Ayudantía 5](http://apobletee.github.io/files/OD2020/A52020.pdf) 
 
-### [Ayudantía 4](http://apobletee.github.io/files/OD2020/A42020.pdf) 
 
-### [Ayudantía 3](http://apobletee.github.io/files/OD2020/A32020.pdf) 
-
-### [Ayudantía 2](http://apobletee.github.io/files/OD2020/A22020.pdf) 
-
-### [Ayudantía 1](http://apobletee.github.io/files/OD2020/A12020.pdf) 
-
-### [Exercise](http://apobletee.github.io/files/OD2020/Ejercicio.pdf) 
 
 

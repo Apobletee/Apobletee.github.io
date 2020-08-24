@@ -28,4 +28,5 @@ https://drive.google.com/drive/folders/1m2RKnBza-OnubNKfoKUYqf48ZBj01QBp?usp=sha
 TAs
 ======
 
-## [Ayudantía 1](http://apobletee.github.io/files/Fin2/IO2.pdf)
+## [Ayudantía 1](http://apobletee.github.io/files/Fin2/A1F2.pdf)
+- [Video](https://drive.google.com/drive/folders/13qvUNuGOZ98-XJG9lfoXevlEkHoxgrJq)

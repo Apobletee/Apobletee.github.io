@@ -9,6 +9,13 @@ location: "City, Country"
 ---
 Este segundo curso de macroeconomía, pone énfasis en modelos simples para entender las políticas fiscales y monetarias en presencia de inflación y ciclos.
 Supone que los estudiantes pueden resolver problemas matemáticos de optimización sencillos.
+
+
+
+
+
+
+.
 Se espera que al finalizar el curso, el estudiante será capaz de:
 •	Conocer los marcos institucionales y modelos teóricos que guían las políticas de control inflacionario y de suavización del ciclo económico.
 •	Entender las condiciones que pueden llevar a un trade-off entre inflación y desempleo, así como, el rol que juegan las expectativas en esta relación.

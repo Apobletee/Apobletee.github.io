@@ -1,5 +1,5 @@
 ---
-title: "Finances I (2019)"
+title: "Investments (Finance I) (1-2019)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/FinancesI

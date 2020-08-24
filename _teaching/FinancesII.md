@@ -1,5 +1,5 @@
 ---
-title: "Finances II"
+title: "Asset Pricing and Portfolio Theory (Finance 2)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/FinancesII

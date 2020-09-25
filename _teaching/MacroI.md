@@ -28,4 +28,12 @@ Drive:
 TAs
 ======
 
-## [Ayudantía 1](http://apobletee.github.io/files/MI/IO2.pdf)
+## [Ayudantía 1](http://apobletee.github.io/files/MI/A1M1.pdf)
+[Video](https://drive.google.com/drive/folders/1ZOw9mXH_dk6WG6XU_Yk_uvHiVLxTHCpn)
+
+## [Ayudantía 2](http://apobletee.github.io/files/MI/A2M1.pdf)
+[Video](https://drive.google.com/drive/folders/1mEUaHQDoZQSFYTkkeWe_44d_frEo4G9Q)
+
+## [Ayudantía 3](http://apobletee.github.io/files/MI/A3M1.pdf)
+
+## [Ayudantía 4](http://apobletee.github.io/files/MI/A4M1.pdf)

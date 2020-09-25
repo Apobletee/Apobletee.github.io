@@ -35,7 +35,3 @@ TAs
 
 ## [Ayudantía 1](http://apobletee.github.io/files/Fin2/A1F2.pdf)
 - [Video](https://drive.google.com/drive/folders/13qvUNuGOZ98-XJG9lfoXevlEkHoxgrJq)
-
-
-
-## [Ayudantía 4](http://apobletee.github.io/files/Fin2/A4F2.pdf)

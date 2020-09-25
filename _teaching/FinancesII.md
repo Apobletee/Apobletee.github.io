@@ -22,11 +22,20 @@ capital
 financieros emitidos por ellas.Este curso de Teoría Finan
 
 ====
-En el drive podrán encontrar ejercicios pasados y apuntes:
-https://drive.google.com/drive/folders/1m2RKnBza-OnubNKfoKUYqf48ZBj01QBp?usp=sharing
+
 
 TAs
 ======
 
+
+## [Ayudantía 4](http://apobletee.github.io/files/Fin2/A4F2.pdf)
+
+## [Ayudantía 3](http://apobletee.github.io/files/Fin2/A3F2.pdf)
+## [Ayudantía 2](http://apobletee.github.io/files/Fin2/A2F2.pdf)
+
 ## [Ayudantía 1](http://apobletee.github.io/files/Fin2/A1F2.pdf)
 - [Video](https://drive.google.com/drive/folders/13qvUNuGOZ98-XJG9lfoXevlEkHoxgrJq)
+
+
+
+## [Ayudantía 4](http://apobletee.github.io/files/Fin2/A4F2.pdf)

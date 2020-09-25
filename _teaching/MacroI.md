@@ -32,7 +32,7 @@ TAs
 [Video](https://drive.google.com/drive/folders/1ZOw9mXH_dk6WG6XU_Yk_uvHiVLxTHCpn)
 
 ## [Ayudantía 2](http://apobletee.github.io/files/MI/A2M1.pdf)
-[Video](https://drive.google.com/drive/folders/1mEUaHQDoZQSFYTkkeWe_44d_frEo4G9Q)
+[Video](https://drive.google.com/file/d/1ne_mNU3kUQfpRFb9lEGJn2fkMcZSJXP5/view?usp=sharing)
 
 ## [Ayudantía 3](http://apobletee.github.io/files/MI/A3M1.pdf)
 

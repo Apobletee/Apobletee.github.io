@@ -26,7 +26,9 @@ financieros emitidos por ellas.Este curso de Teoría Finan
 
 TAs
 ======
+## [Ayudantía 6](http://apobletee.github.io/files/Fin2/Ayudant_a_6_Fin2.pdf)
 
+## [Ayudantía 5- Spreadsheet](http://apobletee.github.io/files/Fin2/Ay5.xlsx)
 
 ## [Ayudantía 4](http://apobletee.github.io/files/Fin2/A4F2.pdf)
 

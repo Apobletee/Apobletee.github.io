@@ -26,7 +26,13 @@ financieros emitidos por ellas.Este curso de Teoría Finan
 
 TAs
 ======
-## [Ayudantía 6](http://apobletee.github.io/files/Fin2/Ayudant_a_6_Fin2.pdf)
+#[Ayudantía 9 -](http://apobletee.github.io/files/Fin2/Ayudant_a_6_Fin21.pdf)
+
+##[Ayudantía 8 - APT-Fama French Excel Class](http://apobletee.github.io/files/Fin2/Ayudant_a_6_Fin21.pdf)
+
+##[Ayudantía 7- Excel class CAPM](http://apobletee.github.io/files/Fin2/Ayudant_a_6_Fin21.pdf)
+
+## [Ayudantía 6- Portfolio Theory](http://apobletee.github.io/files/Fin2/Ayudant_a_6_Fin2.pdf)
 
 ## [Ayudantía 5- Spreadsheet](http://apobletee.github.io/files/Fin2/Ay5.xlsx)
 

@@ -32,16 +32,16 @@ TAs
 
 ### [Ayudantía 9](http://apobletee.github.io/files/F1/a9.pdf)
 
-### [Ayudantía 8](http://apobletee.github.io/files/F1/a8.pdf)
+### [Ayudantía 8](http://apobletee.github.io/files/F1/a8A.pdf)
 
-### [Ayudantía 7](http://apobletee.github.io/files/F1/a7.pdf)
+### [Ayudantía 7](http://apobletee.github.io/files/F1/a7A.pdf)
 
-### [Ayudantía 6](http://apobletee.github.io/files/F1/a6.pdf)
+### [Ayudantía 6](http://apobletee.github.io/files/F1/a6A.pdf)
 
-### [Ayudantía 4](http://apobletee.github.io/files/F1/Finanzas1_A4.pdf)
+### [Ayudantía 4](http://apobletee.github.io/files/F1/Finanzas1_A4A.pdf)
 
-### [Ayudantía 3](http://apobletee.github.io/files/F1/Ayudantía3.pdf)
+### [Ayudantía 3](http://apobletee.github.io/files/F1/Ayudantía3A.pdf)
 
-### [Ayudantía 2](http://apobletee.github.io/files/F1/Ayudantía2Finanzas.pdf)
+### [Ayudantía 2](http://apobletee.github.io/files/F1/Ayudantía2FinanzasA.pdf)
 
 

@@ -19,8 +19,7 @@ alumno logre una adecuada comprensión de:
 2. Las características que definen los precios de “equilibrio” de distintos activos de
 capital
 3. Factores que inciden en el valor económico de las empresas y los instrumentos
-financieros emitidos por ellas.Este curso de Teoría Finan
-
+financieros emitidos por ellas.
 ====
 
 
